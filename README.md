@@ -7,7 +7,7 @@ As GNOME provides already a text editor (not MD), it's based on Gedit, adding mo
 I got some inspiration from the great programs [Abricotine](http://abricotine.brrd.fr) and [Typora](https://typora.io). I consider distracting and a waste of space the "two windows" editors. 
 
 Standard simple view:
-![alt text](https://github.com/gnacho/Gnome-MD/blob/master/Main_Screen.png)
+![alt text](https://github.com/gnacho/Gnome-MD/blob/master/Main.png)
 
 Showing code view:
 ![alt text](https://github.com/gnacho/Gnome-MD/blob/master/Code_View.png)
