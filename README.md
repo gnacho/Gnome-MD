@@ -12,4 +12,6 @@ Standard simple view:
 Showing code view:
 ![alt text](https://github.com/gnacho/Gnome-MD/blob/master/Code_View.png)
 
+Even when shows code the style of the document persists.
 
+An option to modify CSS and add more styles should be added, I'll look into it for the next update :)
