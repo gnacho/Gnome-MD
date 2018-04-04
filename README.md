@@ -14,4 +14,13 @@ Showing code view (without the tool bar):
 
 Even when shows code the style of the document persists.
 
-An option to modify CSS and add more styles should be added, I'll look into it for the next update :)
+## Todo
+
+- Preferences Window
+  - Modify CSS and add more styles 
+  - Dark Theme option
+  - Tabulation width
+  - Autocompletion for lists
+  - And others ...
+  
+I'll look into it for the next update :)
