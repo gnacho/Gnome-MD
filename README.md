@@ -9,7 +9,7 @@ I got some inspiration from the great programs [Abricotine](http://abricotine.br
 Standard simple view:
 ![alt text](https://github.com/gnacho/Gnome-MD/blob/master/Main.png)
 
-Showing code view:
+Showing code view (without the tool bar):
 ![alt text](https://github.com/gnacho/Gnome-MD/blob/master/Code_View.png)
 
 Even when shows code the style of the document persists.
