@@ -18,9 +18,12 @@ Even when shows code the style of the document persists.
 
 - Preferences Window
   - Modify CSS and add more styles 
+  - Font type and size
   - Dark Theme option
   - Tabulation width
-  - Autocompletion for lists
+  - Autocompletion
+  - Autosave
+  - Import and export options
   - And others ...
   
 I'll look into it for the next update :)
